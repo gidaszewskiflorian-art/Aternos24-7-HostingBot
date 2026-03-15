@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Galaxy_Cozy.aternos.me:56419",
+    "ip": "Galaxy_Cozy.aternos.me",
     "port": 56419,
     "version": "",
     "try-creative": false
