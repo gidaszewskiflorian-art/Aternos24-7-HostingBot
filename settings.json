@@ -32,8 +32,11 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-      "Join the Empire !",
+      "67",
         "I like to play Minecraft!"
+      
+    
+        
       ]
     },
     "chat-log": true,
