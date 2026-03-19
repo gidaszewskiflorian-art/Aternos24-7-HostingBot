@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "MrGalaxy",
+    "username": "MrBot",
     "password": "",
     "type": "offline"
   },
@@ -33,7 +33,11 @@
       "messages": [
         "I'm a regular player",
       "Join the Empire !",
-        "I like to play Minecraft!"
+        "I like to play Minecraft!",
+        "I' like this server",
+        "I'm a bot",
+         "Protect your builds with a golden shovel!",
+        "What is everyone building today? "
       ]
     },
     "chat-log": true,
@@ -74,8 +78,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
